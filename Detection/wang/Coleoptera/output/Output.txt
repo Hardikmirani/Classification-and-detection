@@ -1,0 +1,30 @@
+Found 25 images in the selected folder 
+ 
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera1.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera10.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera11.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera12.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera13.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera14.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera15.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera16.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera17.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera18.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera19.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera2.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera20.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera21.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera22.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera23.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera24.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera25.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera3.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera4.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera5.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera6.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera7.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera8.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Coleoptera\Coleoptera9.jpg
+
+
+ Execution time : 0 hrs: 0 mins : 9.391141 secs

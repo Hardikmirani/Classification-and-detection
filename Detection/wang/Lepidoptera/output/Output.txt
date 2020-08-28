@@ -1,0 +1,30 @@
+Found 25 images in the selected folder 
+ 
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera1.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera10.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera11.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera12.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera13.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera14.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera15.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera16.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera17.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera18.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera19.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera2.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera20.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera21.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera22.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera23.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera24.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera25.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera3.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera4.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera5.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera6.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera7.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera8.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Lepidoptera\Lepidoptera9.jpg
+
+
+ Execution time : 0 hrs: 0 mins : 8.496197 secs

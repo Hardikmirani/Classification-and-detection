@@ -1,0 +1,30 @@
+Found 25 images in the selected folder 
+ 
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata1.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata10.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata11.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata12.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata13.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata14.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata15.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata16.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata17.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata18.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata19.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata2.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata20.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata21.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata22.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata23.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata24.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata25.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata3.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata4.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata5.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata6.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata7.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata8.jpg
+Processing.. C:/Users/Yoga/Desktop/Projects/Insects/Input/wang/Odonata\Odonata9.jpg
+
+
+ Execution time : 0 hrs: 0 mins : 8.002999 secs
